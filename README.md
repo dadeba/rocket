@@ -22,7 +22,7 @@ ISA/Implementation | ARM Cortex-A5 | RISC-V Rocket | R/A
 ISA Register Width | 32 bits | 64 bits | 2
 Frequency | >1 GHz | >1 GHz | 1
 Dhrystone Performance | 1.57 DMIPS/MHz | 1.72 DMIPS/MHz | 1.1
-Area excluding caches | 0.27 mm^2 | 0.14 mm^2 | 0.5
-Area with 16KB caches | 0.53 mm^2 | 0.39 mm^2 | 0.7
-Area Efficiency | 2.96 DMIPS/MHz/mm^2 | 4.41 DMIPS/MHz/mm^2 | 1.5
+Area excluding caches | 0.27 mm<sup>2</sup> | 0.14 mm<sup>2</sup> | 0.5
+Area with 16KB caches | 0.53 mm<sup>2</sup> | 0.39 mm<sup>2</sup> | 0.7
+Area Efficiency | 2.96 DMIPS/MHz/mm<sup>2</sup> | 4.41 DMIPS/MHz/mm<sup>2</sup>
 Dynamic Power | <0.08 mW/MHz | 0.034 mW/MHz | >= 0.4
