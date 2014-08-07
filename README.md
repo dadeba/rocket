@@ -14,7 +14,7 @@ ratio of RISC-V Rocket to ARM Cortex-A5. Both use single-instruction-issue,
 in-order pipelines, yet the RISC-V core is faster, smaller, and uses less
 power.
 
- | ARM Cortex-A5 | RISC-V Rocket | R/A
+ISA/Implementation | ARM Cortex-A5 | RISC-V Rocket | R/A
 --- | --- | --- | ---
 ISA Register Width | 32 bits | 64 bits | 2
 Frequency | >1 GHz | >1 GHz | 1
