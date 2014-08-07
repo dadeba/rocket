@@ -24,5 +24,5 @@ Frequency | >1 GHz | >1 GHz | 1
 Dhrystone Performance | 1.57 DMIPS/MHz | 1.72 DMIPS/MHz | 1.1
 Area excluding caches | 0.27 mm<sup>2</sup> | 0.14 mm<sup>2</sup> | 0.5
 Area with 16KB caches | 0.53 mm<sup>2</sup> | 0.39 mm<sup>2</sup> | 0.7
-Area Efficiency | 2.96 DMIPS/MHz/mm<sup>2</sup> | 4.41 DMIPS/MHz/mm<sup>2</sup>
+Area Efficiency | 2.96 DMIPS/MHz/mm<sup>2</sup> | 4.41 DMIPS/MHz/mm<sup>2</sup> | 1.5
 Dynamic Power | <0.08 mW/MHz | 0.034 mW/MHz | >= 0.4
