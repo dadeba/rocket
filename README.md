@@ -1,4 +1,4 @@
-Rocket, a 64-bit RISC-V Single-Issue In-Order Core Generator
+Rocket Core Generator
 ================================================================
 
 Rocket is a 6-stage single-issue in-order pipeline that executes the 64-bit
